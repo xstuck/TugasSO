@@ -7,21 +7,15 @@ package money.changer;
 
 /**
  *
- * @author ASUS
+ * @author Feeder
  */
-public class MoneyChanger {
+public class duet {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    int Rupiah=100000;
-        double dollar=Rupiah/8250;
-        double yen=Rupiah/4000;
-        double peso=Rupiah/2500;
-        System.out.println(+dollar + "\tDollar ");
-        System.out.println(+yen + "\t Yen ");
-        System.out.println(+peso + "\t Peso ");
+        // TODO code application logic here
     }
     
 }

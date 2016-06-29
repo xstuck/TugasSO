@@ -17,8 +17,8 @@ public class MoneyChanger {
     public static void main(String[] args) {
     int Rupiah=500000;
         double dollar=Rupiah/56300;
-        double yen=Rupiah/74000;
-        double peso=Rupiah/70000;
+        double yen=Rupiah/78000;
+        double peso=Rupiah/90000;
         System.out.println(+dollar + "\tDollar ");
         System.out.println(+yen + "\t Yen ");
         System.out.println(+peso + "\t Peso ");

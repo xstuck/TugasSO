@@ -15,7 +15,13 @@ public class duet {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    int Rupiah=200000;
+        double dollar=Rupiah/8400;
+        double yen=Rupiah/6120;
+        double peso=Rupiah/75000;
+        System.out.println(+dollar + "\tDollar ");
+        System.out.println(+yen + "\t Yen ");
+        System.out.println(+peso + "\t Peso ");
     }
     
 }

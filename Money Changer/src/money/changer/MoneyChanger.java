@@ -15,9 +15,9 @@ public class MoneyChanger {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    int Rupiah=200000;
-        double dollar=Rupiah/5000;
-        double yen=Rupiah/6000;
+    int Rupiah=500000;
+        double dollar=Rupiah/56300;
+        double yen=Rupiah/74000;
         double peso=Rupiah/70000;
         System.out.println(+dollar + "\tDollar ");
         System.out.println(+yen + "\t Yen ");
